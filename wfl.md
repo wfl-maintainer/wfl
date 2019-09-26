@@ -1,4 +1,4 @@
-#The Warm Fuzzies License v0.1
+# The Warm Fuzzies License v0.1
 
 Pewmission is heweby gwanted, fwee of chawge, to any pewson obtainying a copy of this softwawe and associated documentation fiwes (the “Softwawe”), to deaw in the Softwawe without westwiction, incwuding without wimitation the wights to use, copy, modify, mewge, pubwish, distwibute, subwicense, and/ow seww copies of the Softwawe, and to pewmit pewsons to whom the Softwawe is fuwnyished to do so, subject to the fowwowing conditions:
 
